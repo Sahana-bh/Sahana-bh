@@ -1,18 +1,56 @@
-# 💫 About Me:
-Hi, I'm Sahana B H<br><br>QA Automation Engineer | Playwright | Selenium | Java<br><br>I’m a QA Automation Engineer passionate about building reliable, scalable, and efficient test automation solutions. I enjoy exploring new technologies, improving software quality, and turning complex testing scenarios into automated solutions.
 
+# Sahana B H
+### QA Automation Engineer | Playwright | Selenium | Java
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahanabh1209) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahanablrh@gmail.com) 
+I am a QA Automation Engineer passionate about software quality, test automation, and building reliable applications.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sahana-bh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sahana-bh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sahana-bh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About Me
+- Working with Playwright and JavaScript for UI and API automation.
+- Hands-on experience with Selenium WebDriver and Java.
+- Knowledge of functional testing, regression testing, STLC, and SDLC.
+- Familiar with REST API testing, Postman, Cypress, and CI/CD.
+- Always learning and improving my automation skills.
+
+## Tech Stack
+
+**Languages:** Java, JavaScript, Python, SQL
+
+**Automation:** Playwright, Selenium WebDriver, Cypress
+
+**Testing:** API Testing, Postman, JMeter, Functional Testing, Regression Testing
+
+**Tools:** Git, GitHub, VS Code
+
+**Methodologies:** Agile/Scrum, STLC, SDLC
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahana-bh&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahana-bh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahana-bh&theme=tokyonight&hide_border=true" />
+</p>
+
+## Featured Projects
+
+- **MobiGuest:** UI and API test automation using Playwright.
+- **IoT Water Quality Monitoring:** IoT-based water quality and leakage detection with machine learning.
+- **Chronic Disease Prediction:** Machine learning application developed using Python and Flask.
+
+## Achievements
+- IEEE publication on IoT-based water quality and leakage monitoring.
+- Hack2Skill by Intel — AI-powered full-stack prototype.
+- NASA Ideathon 2022 — Galactic Problem Solver.
+
+## Connect With Me
+
+- **Email:** [sahanablrh@gmail.com](mailto:sahanablrh@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sahanabh1209](https://www.linkedin.com/in/sahanabh1209)
+- **GitHub:** [github.com/sahana-bh](https://github.com/sahana-bh)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sahana-bh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Building quality into software, one test at a time.*
